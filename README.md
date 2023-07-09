@@ -1,5 +1,3 @@
-
-
 <h1 align='center'>
   Hi there 👋 It's Kyle 👨‍💻
 </h1>
@@ -30,20 +28,13 @@
 </p>
 
 <p align='center'>
-  ☁ My favorite  Cloud Tech stack<br/><br/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&labelColor=000000" />
-</p>
-
-<!-- <details align='center'>
-  <summary>:zap: My ride specs</summary>
-</details>-->
-
-<p align='center'>
   📫Reach me at: <a href='mailto:nvietthu@gmail.com'>nvietthu@gmail.com</a>
 </p>
+
+### 📃 My favorite Tech Stack
+- Linux
+- EKS and GKE
+- Prometheus and Grafana
+- Python
+- Golang
+
