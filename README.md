@@ -28,7 +28,13 @@
 </p>
 
 <p align='center'>
-  📫Reach me at: <a href='mailto:nvietthu@gmail.com'>nvietthu@gmail.com</a>
+  💬 Reach me<br/><br/>
+  <a href="https://t.me/kylesaigon">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:nvietthu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </p>
 
 ### 📃 My favorite Tech Stack
