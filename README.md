@@ -39,8 +39,10 @@
 
 ### 📃 My favorite Tech Stack
 - Linux
-- EKS and GKE
+- EKS, GKE and AKS
 - Prometheus and Grafana
+- Elasticsearch and Kibana
+- Github Actions and ArgoCD
+- Terraform
 - Python
 - Golang
-
